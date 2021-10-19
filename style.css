@@ -17,6 +17,10 @@ p{
     color: dimgray;
     padding-bottom: 30px;
 }
+h2{
+    font-size: 40px;
+    font-weight: 400;
+}
 .half-width{
     width: 40%;
     margin-top: 15%;
@@ -39,12 +43,23 @@ p{
     color: white;
 }
 section{
-    height: 1070px;
+    height: 1020px;
 }
 .top{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
-
 }
-
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#dream{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 30%;
+}
+#biography-text{
+    width: 35%;
+}
